@@ -2,3 +2,8 @@
 	path = anthonywillemrichardson/CX-Pay
 	url = git@github.com:anthonywillemrichardson/CX-Pay.git
 	branch = devlope
+
+[submodule "Blueback-office/CX-Pay"]
+	path = Blueback-office/CX-Pay
+	url = git@github.com:Blueback-office/CX-Pay.git
+	branch = master
